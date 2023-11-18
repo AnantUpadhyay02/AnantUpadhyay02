@@ -2,7 +2,7 @@
 <h3 align="center">Data Engineer||ML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/806947/screenshots/4698193/drink_coffee-resize.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantupadhyay02&label=Profile%20views&color=0e75b6&style=flat" alt="anantupadhyay02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantupadhyay02&label=Visitors&color=db0000&style=plastic" alt="anantupadhyay02" /> </p>
 
 - 🔭 I’m currently working on Natural Language Processing [NLP](https://github.com/AnantUpadhyay02/NLP-Natural-Language-Processing)
 

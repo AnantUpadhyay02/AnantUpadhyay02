@@ -33,7 +33,15 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<h3 align="left">Repositories:</h3>
+
+  
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anantupadhyay02&show_icons=true&theme=dark&locale=en" alt="anantupadhyay02" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anantupadhyay02&theme=dark" alt="anantupadhyay02" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantupadhyay02&show_icons=true&theme=dark&locale=en&layout=compact" alt="anantupadhyay02" /></p>
+
+<h3 align="left">Top Repositories:</h3>
   
 
 <a href="https://github.com/AnantUpadhyay02/NLP-Natural-Language-Processing">
@@ -44,11 +52,3 @@
 <a href="https://github.com/AnantUpadhyay02/LeetCode-DSA-Question-Using-Cpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=LeetCode-DSA-Question-Using-Cpp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-  
-
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anantupadhyay02&show_icons=true&theme=dark&locale=en" alt="anantupadhyay02" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anantupadhyay02&theme=dark" alt="anantupadhyay02" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantupadhyay02&show_icons=true&theme=dark&locale=en&layout=compact" alt="anantupadhyay02" /></p>

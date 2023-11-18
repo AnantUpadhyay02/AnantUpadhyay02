@@ -21,27 +21,27 @@ My name is Anant and I'm a college student currentely pursuing my Bachelors Degr
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/AnantUpadhyay02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav0git&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantUpadhyay02&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/AnantUpadhyay02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav0git&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnantUpadhyay02&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/AnantUpadhyay02/Temperament-Analysis-Using-NLP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav0git&repo=AushadHubFrontEnd&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=Temperament-Analysis-Using-NLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/AnantUpadhyay02/DSA-Bootcamp-Techniques-and-Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav0git&repo=PalletShallet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=DSA-Bootcamp-Techniques-and-Algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/AnantUpadhyay02/LeetCode-DSA-Question-Using-Cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav0git&repo=PalletShallet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=LeetCode-DSA-Question-Using-Cpp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/AnantUpadhyay02/Facial-Recognition-using-OpenCV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav0git&repo=PalletShallet&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=Facial-Recognition-using-OpenCV&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- icons with padding -->

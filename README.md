@@ -1,71 +1,13 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
+<h1 align="center">Hi, I'm Anant Upadhyay</h1>
+<h3 align="center">I'm an ENGINEER, a ML Enthusiast from India</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
-My name is Anant and I'm a college student currentely pursuing my Bachelors Degree in Electronics and Communication. You can find me on [![LinkedIn][3.2]][3].
-- 🔭 I’m currently working on Natural Language Processing.
-- 🌱 I’m currently studying Machine Learning.
-- 📫 How to reach me: amanupadhyay1719@gmail.com.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/anant-upadhyay-287191204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anant-upadhyay-287191204" height="30" width="40" /></a>
+<a href="https://kaggle.com/anantupadhyay23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anantupadhyay23" height="30" width="40" /></a>
+<a href="https://instagram.com/anant_u8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anant_u8" height="30" width="40" /></a>
+</p>
 
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=#00599C)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=#A8B9CC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=#F7DF1E)
-![](https://img.shields.io/badge/Markup-html5-informational?style=flat&logo=html5&logoColor=white&color=#E34F26)
-![](https://img.shields.io/badge/Style-css-informational?style=flat&logo=csswizardry&logoColor=white&color=#E34F26)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=#E34F26)
-![](https://img.shields.io/badge/Dev-Git-informational?style=flat&logo=git&logoColor=white&color=#E34F26)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=#E34F26)
-![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=#E34F26)
-![](https://img.shields.io/badge/Design-Ai-informational?style=flat&logo=adobeillustrator&logoColor=white&color=#E34F26)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/AnantUpadhyay02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantUpadhyay02&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/AnantUpadhyay02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnantUpadhyay02&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/AnantUpadhyay02/Temperament-Analysis-Using-NLP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=Temperament-Analysis-Using-NLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/AnantUpadhyay02/DSA-Bootcamp-Techniques-and-Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=DSA-Bootcamp-Techniques-and-Algorithms&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AnantUpadhyay02/LeetCode-DSA-Question-Using-Cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=LeetCode-DSA-Question-Using-Cpp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AnantUpadhyay02/Facial-Recognition-using-OpenCV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnantUpadhyay02&repo=Facial-Recognition-using-OpenCV&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[2]: https://github.com/AnantUpadhyay02
-[3]: https://www.linkedin.com/in/anant-upadhyay-287191204/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>

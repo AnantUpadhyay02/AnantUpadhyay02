@@ -24,7 +24,7 @@ My name is Anant and I'm a college student currentely pursuing my Bachelors Degr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantUpadhyay02&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/AnantUpadhyay02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnantUpadhyay02&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnantUpadhyay02&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/AnantUpadhyay02/Temperament-Analysis-Using-NLP">

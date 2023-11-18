@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anant Upadhyay</h1>
 <h3 align="center">I'm a Data Engineer||ML Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4698193-Drink-Coffee/attachments/10543041?mode=media">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/806947/screenshots/4698193/drink_coffee-resize.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantupadhyay02&label=Profile%20views&color=0e75b6&style=flat" alt="anantupadhyay02" /> </p>
 

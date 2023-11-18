@@ -1,9 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
-My name is Abhinav and I'm a college student currentely pursuing my Bachelors Degree in Inforamtion Technologies. You can find me on [![LinkedIn][3.2]][3].
-- 🔭 I’m currently working on Front-End Developmnet.
-- 🌱 I’m currently learning React.js.
-- 🤔 I’m looking for help with Git/GitHub and Full-Stack Projects.
+My name is Anant and I'm a college student currentely pursuing my Bachelors Degree in Electronics and Communication. You can find me on [![LinkedIn][3.2]][3].
+- 🔭 I’m currently working on Natural Language Processing.
+- 🌱 I’m currently studying Machine Learning.
 - 📫 How to reach me: amanupadhyay1719@gmail.com.
 
 

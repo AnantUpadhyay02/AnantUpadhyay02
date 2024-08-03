@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantupadhyay02&label=Visitors&color=db0000&style=plastic" alt="anantupadhyay02" /> </p>
 
-- 🔭 I’m currently working on Natural Language Processing [NLP](https://github.com/AnantUpadhyay02/NLP-Natural-Language-Processing)
+- 🔭 I’m doing an Ed-venture of [100DaysofGenAI](https://github.com/AnantUpadhyay02/100-Days-of-GenAI)
 
 - 🌱 I’m currently Studying Machine Learning **Pandas, OpenCV, Tensorflow etc.**
 

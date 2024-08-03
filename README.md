@@ -6,8 +6,6 @@
 
 - 🔭 I’m doing an Ed-venture of [100DaysofGenAI](https://github.com/AnantUpadhyay02/100-Days-of-GenAI)
 
-- 🌱 I’m currently Studying Machine Learning **Pandas, OpenCV, Tensorflow etc.**
-
 - 📫 How to reach me **amanupadhyay1719@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

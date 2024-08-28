@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anant Upadhyay</h1>
+<h1 align="center">Hey, I'm Anant Upadhyay</h1>
 <h3 align="center">Data Scientist | ML Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/806947/screenshots/4698193/drink_coffee-resize.gif">
 

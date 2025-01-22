@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantupadhyay02&label=Visitors&color=db0000&style=plastic" alt="anantupadhyay02" /> </p>
 
-- 🔭 I’m doing an Ed-venture of [100DaysofGenAI](https://github.com/AnantUpadhyay02/100-Days-of-GenAI)
-
 - 📫 How to reach me **amanupadhyay1719@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
